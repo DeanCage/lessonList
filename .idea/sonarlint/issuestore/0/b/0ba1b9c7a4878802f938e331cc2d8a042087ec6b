@@ -1,0 +1,223 @@
+
+L
+java:S3740ã"/Provide the parametrized type for this generic.(¨»Èa8ä·ãƒŞ1
+L
+java:S3740ã"/Provide the parametrized type for this generic.(¨»Èa8ä·ãƒŞ1
+r
+java:S11922"PDefine a constant instead of duplicating this literal "Ğ Ğ•Ğ¨Ğ•ĞĞ˜Ğ•" 12 times.(¥‚éÿÿÿÿÿ8å·ãƒŞ1
+h
+java:S11920"KDefine a constant instead of duplicating this literal "^\\[|\\]$" 19 times.(óÔµô8å·ãƒŞ1
+¦
+java:S1192*"ƒDefine a constant instead of duplicating this literal "-----------------------------------------------------------------" 25 times.(¾…´øÿÿÿÿ8å·ãƒŞ1
+m
+java:S11920"PDefine a constant instead of duplicating this literal "ĞœĞ°ÑÑĞ¸Ğ²: " 16 times.(óÔµô8å·ãƒŞ1
+L	java:S106)"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8…¸ãƒŞ1
+L	java:S106*"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8…¸ãƒŞ1
+G	java:S106+"+Replace this use of System.out by a logger.(•ô¤ø8…¸ãƒŞ1
+L	java:S106,"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8…¸ãƒŞ1
+L	java:S106-"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8…¸ãƒŞ1
+L
+java:S1197."*Move the array designators [] to the type.(úŠ°‹şÿÿÿÿ8…¸ãƒŞ1
+G	java:S1060"+Replace this use of System.out by a logger.(óÔµô8…¸ãƒŞ1
+q
+java:S58500"TGroup parts of the regex together to make the intended operator precedence explicit.(óÔµô8…¸ãƒŞ1
+L	java:S1061"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8†¸ãƒŞ1
+L	java:S1062"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8†¸ãƒŞ1
+L	java:S1069"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8†¸ãƒŞ1
+G	java:S106:"+Replace this use of System.out by a logger.(‚¨Ö§8†¸ãƒŞ1
+L	java:S106;"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8†¸ãƒŞ1
+L	java:S106<"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8†¸ãƒŞ1
+G	java:S106A"+Replace this use of System.out by a logger.(ÛğÒ8†¸ãƒŞ1
+L	java:S106B"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8†¸ãƒŞ1
+L	java:S106C"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8†¸ãƒŞ1
+L
+java:S1197D"*Move the array designators [] to the type.(¨›œàüÿÿÿÿ8†¸ãƒŞ1
+L	java:S106E"+Replace this use of System.out by a logger.( ¯Ù°ÿÿÿÿÿ8‡¸ãƒŞ1
+v
+java:S5850E"TGroup parts of the regex together to make the intended operator precedence explicit.( ¯Ù°ÿÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106F"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106G"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106H"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106I"+Replace this use of System.out by a logger.(‰†Ä’ıÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106K"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‡¸ãƒŞ1
+L	java:S106L"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8‡¸ãƒŞ1
+G	java:S106Q"+Replace this use of System.out by a logger.(›ŒâÙ8ˆ¸ãƒŞ1
+L	java:S106R"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ˆ¸ãƒŞ1
+L	java:S106S"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ˆ¸ãƒŞ1
+G
+java:S1197T"*Move the array designators [] to the type.(‡õş¾8ˆ¸ãƒŞ1
+G	java:S106U"+Replace this use of System.out by a logger.(éë8ˆ¸ãƒŞ1
+q
+java:S5850U"TGroup parts of the regex together to make the intended operator precedence explicit.(éë8ˆ¸ãƒŞ1
+L	java:S106V"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ˆ¸ãƒŞ1
+L	java:S106W"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8ˆ¸ãƒŞ1
+L	java:S106X"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ˆ¸ãƒŞ1
+G	java:S106Y"+Replace this use of System.out by a logger.(¼üº™8ˆ¸ãƒŞ1
+L	java:S106Z"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8ˆ¸ãƒŞ1
+L	java:S106["+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8ˆ¸ãƒŞ1
+G	java:S106`"+Replace this use of System.out by a logger.(šôÁ8‰¸ãƒŞ1
+L	java:S106a"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8‰¸ãƒŞ1
+L	java:S106b"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‰¸ãƒŞ1
+G
+java:S1197c"*Move the array designators [] to the type.(¼Æ£’8‰¸ãƒŞ1
+G	java:S106e"+Replace this use of System.out by a logger.(óñ™ã8‰¸ãƒŞ1
+q
+java:S5850e"TGroup parts of the regex together to make the intended operator precedence explicit.(óñ™ã8‰¸ãƒŞ1
+L	java:S106f"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‰¸ãƒŞ1
+L	java:S106g"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8‰¸ãƒŞ1
+L	java:S106i"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‰¸ãƒŞ1
+G	java:S106j"+Replace this use of System.out by a logger.(‚É8‰¸ãƒŞ1
+q
+java:S5850j"TGroup parts of the regex together to make the intended operator precedence explicit.(‚É8‰¸ãƒŞ1
+L	java:S106l"+Replace this use of System.out by a logger.(’ÅÅøÿÿÿÿ8Š¸ãƒŞ1
+F	java:S106n"+Replace this use of System.out by a logger.(‘Ø¼v8Š¸ãƒŞ1
+L	java:S106p"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Š¸ãƒŞ1
+L	java:S106q"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8Š¸ãƒŞ1
+M	java:S106†"+Replace this use of System.out by a logger.(™ıÊäøÿÿÿÿ8Š¸ãƒŞ1
+M	java:S106‡"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8‹¸ãƒŞ1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‹¸ãƒŞ1
+M
+java:S1197‰"*Move the array designators [] to the type.(ş¼¢†úÿÿÿÿ8‹¸ãƒŞ1
+H	java:S106Š"+Replace this use of System.out by a logger.(€ ê„8‹¸ãƒŞ1
+H	java:S106Œ"+Replace this use of System.out by a logger.(ÚÉÈ8‹¸ãƒŞ1
+r
+java:S5850Œ"TGroup parts of the regex together to make the intended operator precedence explicit.(ÚÉÈ8‹¸ãƒŞ1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‹¸ãƒŞ1
+M	java:S106"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8‹¸ãƒŞ1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‹¸ãƒŞ1
+J
+java:S1125"'Remove the unnecessary boolean literal.(¾‡²ƒûÿÿÿÿ8‹¸ãƒŞ1
+M	java:S106‘"+Replace this use of System.out by a logger.(†Õ²ùÿÿÿÿ8‹¸ãƒŞ1
+H	java:S106“"+Replace this use of System.out by a logger.(ê´ê°8‹¸ãƒŞ1
+M	java:S106•"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‹¸ãƒŞ1
+M	java:S106–"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8Œ¸ãƒŞ1
+M	java:S106›"+Replace this use of System.out by a logger.(¸«ŠÕúÿÿÿÿ8Œ¸ãƒŞ1
+M	java:S106œ"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8Œ¸ãƒŞ1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Œ¸ãƒŞ1
+H	java:S106Ÿ"+Replace this use of System.out by a logger.(€ ê„8Œ¸ãƒŞ1
+H	java:S106 "+Replace this use of System.out by a logger.(½É 8Œ¸ãƒŞ1
+r
+java:S5850 "TGroup parts of the regex together to make the intended operator precedence explicit.(½É 8Œ¸ãƒŞ1
+M	java:S106¢"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Œ¸ãƒŞ1
+M	java:S106£"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8Œ¸ãƒŞ1
+M	java:S106¤"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+H	java:S106¥"+Replace this use of System.out by a logger.(€ ê„8¸ãƒŞ1
+H	java:S106¦"+Replace this use of System.out by a logger.(½É 8¸ãƒŞ1
+r
+java:S5850¦"TGroup parts of the regex together to make the intended operator precedence explicit.(½É 8¸ãƒŞ1
+M	java:S106§"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106¨"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8¸ãƒŞ1
+G	java:S106­"+Replace this use of System.out by a logger.(é‹ˆ;8¸ãƒŞ1
+M	java:S106®"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8¸ãƒŞ1
+M	java:S106¯"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+G	java:S106¹"+Replace this use of System.out by a logger.(úñ88¸ãƒŞ1
+q
+java:S5850¹"TGroup parts of the regex together to make the intended operator precedence explicit.(úñ88¸ãƒŞ1
+M	java:S106º"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106»"+Replace this use of System.out by a logger.(Ö‰¼úÿÿÿÿ8¸ãƒŞ1
+M	java:S106¼"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106½"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8¸ãƒŞ1
+M	java:S106¾"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+H	java:S106À"+Replace this use of System.out by a logger.(¦šé8¸ãƒŞ1
+H	java:S106Ã"+Replace this use of System.out by a logger.(¶š•8¸ãƒŞ1
+M	java:S106Å"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106Æ"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8¸ãƒŞ1
+H	java:S106Ë"+Replace this use of System.out by a logger.(®ù÷Ğ8¸ãƒŞ1
+M	java:S106Ì"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8¸ãƒŞ1
+M	java:S106Í"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M
+java:S1197Î"*Move the array designators [] to the type.(‰ş‰øÿÿÿÿ8¸ãƒŞ1
+M	java:S106Ï"+Replace this use of System.out by a logger.(„²šÂÿÿÿÿÿ8¸ãƒŞ1
+M	java:S106Ğ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+H	java:S106Ñ"+Replace this use of System.out by a logger.(€ ê„8¸ãƒŞ1
+H	java:S106Ò"+Replace this use of System.out by a logger.(¤„ô 8¸ãƒŞ1
+r
+java:S5850Ò"TGroup parts of the regex together to make the intended operator precedence explicit.(¤„ô 8¸ãƒŞ1
+M	java:S106Ó"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106Ô"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8¸ãƒŞ1
+M	java:S106Õ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+H	java:S106Ö"+Replace this use of System.out by a logger.(€ ê„8¸ãƒŞ1
+H	java:S106×"+Replace this use of System.out by a logger.(«×ºß8¸ãƒŞ1
+M	java:S106Ø"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¸ãƒŞ1
+M	java:S106Ù"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8¸ãƒŞ1
+H	java:S106ß"+Replace this use of System.out by a logger.(ÎùÂğ8‘¸ãƒŞ1
+M	java:S106à"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8‘¸ãƒŞ1
+M	java:S106á"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‘¸ãƒŞ1
+H
+java:S1197â"*Move the array designators [] to the type.(şİÍ„8‘¸ãƒŞ1
+M	java:S106å"+Replace this use of System.out by a logger.(ÕÙ¦éùÿÿÿÿ8‘¸ãƒŞ1
+M	java:S106æ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8‘¸ãƒŞ1
+H	java:S106ç"+Replace this use of System.out by a logger.(€ ê„8‘¸ãƒŞ1
+M	java:S106è"+Replace this use of System.out by a logger.(´ø¼Æûÿÿÿÿ8‘¸ãƒŞ1
+w
+java:S5850è"TGroup parts of the regex together to make the intended operator precedence explicit.(´ø¼Æûÿÿÿÿ8’¸ãƒŞ1
+M	java:S106é"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ê"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ë"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ì"+Replace this use of System.out by a logger.(Ñÿ™ğøÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ò"+Replace this use of System.out by a logger.(–©Û€şÿÿÿÿ8’¸ãƒŞ1
+w
+java:S5850ò"TGroup parts of the regex together to make the intended operator precedence explicit.(–©Û€şÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ó"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8’¸ãƒŞ1
+M	java:S106ô"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8’¸ãƒŞ1
+H	java:S106ù"+Replace this use of System.out by a logger.(Üş©™8“¸ãƒŞ1
+M	java:S106ú"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8“¸ãƒŞ1
+M	java:S106û"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8“¸ãƒŞ1
+H
+java:S1197ü"*Move the array designators [] to the type.(íŞö±8“¸ãƒŞ1
+H
+java:S1197ı"*Move the array designators [] to the type.(ˆ†ğô8“¸ãƒŞ1
+H	java:S106ş"+Replace this use of System.out by a logger.(€ ê„8“¸ãƒŞ1
+H	java:S106ÿ"+Replace this use of System.out by a logger.(Â¡€è8“¸ãƒŞ1
+r
+java:S5850ÿ"TGroup parts of the regex together to make the intended operator precedence explicit.(Â¡€è8“¸ãƒŞ1
+M	java:S106€"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8“¸ãƒŞ1
+H	java:S106"+Replace this use of System.out by a logger.(€ ê„8“¸ãƒŞ1
+H	java:S106‚"+Replace this use of System.out by a logger.(Î¼Ø¡8“¸ãƒŞ1
+r
+java:S5850‚"TGroup parts of the regex together to make the intended operator precedence explicit.(Î¼Ø¡8“¸ãƒŞ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8”¸ãƒŞ1
+G	java:S106„"+Replace this use of System.out by a logger.(–•µ8”¸ãƒŞ1
+M	java:S106…"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8”¸ãƒŞ1
+M	java:S106†"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8”¸ãƒŞ1
+M	java:S106‡"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8”¸ãƒŞ1
+M
+java:S1197ˆ"*Move the array designators [] to the type.(ù·úşÿÿÿÿ8”¸ãƒŞ1
+H	java:S106Š"+Replace this use of System.out by a logger.(€ ê„8”¸ãƒŞ1
+M	java:S106‹"+Replace this use of System.out by a logger.(ñ–ì‚ûÿÿÿÿ8”¸ãƒŞ1
+w
+java:S5850‹"TGroup parts of the regex together to make the intended operator precedence explicit.(ñ–ì‚ûÿÿÿÿ8”¸ãƒŞ1
+M	java:S106Œ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8”¸ãƒŞ1
+M	java:S106"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8”¸ãƒŞ1
+H	java:S106’"+Replace this use of System.out by a logger.(ÅúëÌ8•¸ãƒŞ1
+M	java:S106“"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8•¸ãƒŞ1
+M	java:S106”"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8•¸ãƒŞ1
+H	java:S106•"+Replace this use of System.out by a logger.(€ ê„8•¸ãƒŞ1
+M	java:S106—"+Replace this use of System.out by a logger.(õ¤Ğˆûÿÿÿÿ8•¸ãƒŞ1
+w
+java:S5850—"TGroup parts of the regex together to make the intended operator precedence explicit.(õ¤Ğˆûÿÿÿÿ8•¸ãƒŞ1
+M	java:S106˜"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8•¸ãƒŞ1
+H	java:S106™"+Replace this use of System.out by a logger.(¢Ş¾Œ8•¸ãƒŞ1
+M	java:S106š"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8•¸ãƒŞ1
+M	java:S106›"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8–¸ãƒŞ1
+M	java:S106œ"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8–¸ãƒŞ1
+H	java:S106¤"+Replace this use of System.out by a logger.(‚ÿ·µ8–¸ãƒŞ1
+r
+java:S5850¤"TGroup parts of the regex together to make the intended operator precedence explicit.(‚ÿ·µ8–¸ãƒŞ1
+M	java:S106¥"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8–¸ãƒŞ1
+M	java:S106¦"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8–¸ãƒŞ1
+M	java:S106«"+Replace this use of System.out by a logger.(èÜ”øÿÿÿÿ8—¸ãƒŞ1
+M	java:S106¬"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8—¸ãƒŞ1
+M	java:S106­"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8—¸ãƒŞ1
+M	java:S106®"+Replace this use of System.out by a logger.(¥‚éÿÿÿÿÿ8—¸ãƒŞ1
+M	java:S106¯"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8—¸ãƒŞ1
+H	java:S106°"+Replace this use of System.out by a logger.(€ ê„8—¸ãƒŞ1
+;
+java:S2119±"Save and re-use this "Random".(¼İÅf8˜¸ãƒŞ1
+M	java:S106³"+Replace this use of System.out by a logger.(¥ûğøÿÿÿÿ8˜¸ãƒŞ1
+w
+java:S5850³"TGroup parts of the regex together to make the intended operator precedence explicit.(¥ûğøÿÿÿÿ8˜¸ãƒŞ1
+M	java:S106´"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8˜¸ãƒŞ1
+M	java:S106µ"+Replace this use of System.out by a logger.(¾…´øÿÿÿÿ8˜¸ãƒŞ1
+;
+java:S2119¼"Save and re-use this "Random".(¼İÅf8˜¸ãƒŞ1
